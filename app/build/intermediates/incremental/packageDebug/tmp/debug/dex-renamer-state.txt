@@ -1,0 +1,4 @@
+#Wed May 04 07:57:58 IST 2022
+base.0=E\:\\Projects\\S4 - CS3272 - Mini Project\\Others\\SimpleExpenseManager-master\\SimpleExpenseManager-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
